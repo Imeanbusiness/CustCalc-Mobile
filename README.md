@@ -18,7 +18,7 @@ A customizable calculator for mobile! This calculator web based application has 
 
 ## Download instructions
 
-1: Click [here](https://github.com/Imeanbusiness/CustCalc/archive/refs/tags/CustCalc.zip) to download (zipped) files
+1: Click [here](https://github.com/Imeanbusiness/CustCalc-Mobile/archive/refs/tags/1.1.0.zip) to download (zipped) files
 
 2: Open and right click, then click "extract all"
 
