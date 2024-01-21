@@ -4,21 +4,21 @@
 
 Base files:
 
-Calc.png, CustomCalculator - Mobile.html, Manual.html, WebBack.png
+CustomCalculator - Mobile.html
 
 DO NOT DELETE THESE FILES. They are required to run the program
 
-Total size: 885 kb
+Total size: 7.6 kb
 
-Version: 1.1.0
+Version: 1.2.0
 
 ## Description
 
-A customizable calculator for mobile! This calculator web based application has customizable feautres, such as background pictures and customized colors! This calculator comes with basic features, such as basic numbers, operations, trig functions and basic exponents. THis version was specifically made for mobile devices.
+A customizable calculator for mobile! This calculator web based application has customizable feautres, such as background colors and customized colors! This calculator comes with basic features, such as basic numbers, operations, trig functions and basic exponents. This version was specifically made for mobile devices.
 
 ## Download instructions
 
-1: Click [here](https://github.com/Imeanbusiness/CustCalc-Mobile/archive/refs/tags/1.1.0.zip) to download (zipped) files
+1: Click [here](https://github.com/Imeanbusiness/CustCalc-Mobile/archive/refs/tags/CC.zip) to download (zipped) files
 
 2: Open and right click, then click "extract all"
 
@@ -28,7 +28,7 @@ A customizable calculator for mobile! This calculator web based application has 
 
 ### Customizing your calculator
 
-In order to customize your calculator background, please download an image. After your download, bring it into the CustCalc file. Then, reload the CustomCalculator.html file on the browser and click the BG button. Enter the file name and it should work.
+In order to customize your calculator background, please download an image. After your download, bring it into the CustCalc file. Then, reload the CustomCalculator.html file on the browser and click the BG button. Enter the hex code and it should work.
 
 To change your colors, there are 2 buttons. C1 button changes the background of your buttons and C2 will change the text color. To change their colors, click on them and enter in a hex code of your choice
 
@@ -87,3 +87,5 @@ Version 1.0: Added files
 Version 1.0.1: Added local storage saves
 
 Version 1.1.0: Added new functions, fixed trig functions bugs, added help manual, changed font.
+
+Version 1.2.0: Changed background feature, changed up some css
